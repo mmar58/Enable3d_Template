@@ -1,3 +1,7 @@
+# Enable3d Template
+
+a basic project setup for start developing apps/games with enable3d and web
+
 ## Install & Run
 
 ```console
